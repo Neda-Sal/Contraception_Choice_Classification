@@ -17,7 +17,7 @@ import streamlit.components.v1 as components
 import plotly.express as px
 
 
-st.write('''# Women's Contracetption Choices
+st.write('''# Women's Contraception Choices
 
 ## The respondants in our dataframe are women who were married at least once. Here is just a snapshot of the dataframe.
 
