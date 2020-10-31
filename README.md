@@ -52,7 +52,7 @@ For these reasons, the final model I chose was GradientBoostingClassifier. The c
 
 I created an app using streamlit that takes user input and generates a prediction based on the features that the user inputs. I plan to host the app on heroku in the near future, for now, a demo can be seen below.
 
-[APP Demo](https://github.com/Neda-Sal/Contraception_Choice_Classification/blob/main/contraception_streamlit_app.webm)
+[App Demo](https://github.com/Neda-Sal/Contraception_Choice_Classification/blob/main/contraception_streamlit_app.webm)
 
 [Final Presentation Slidedeck](https://github.com/Neda-Sal/Contraception_Choice_Classification/blob/main/Contraception_Choices_Presentation.pdf)
 
