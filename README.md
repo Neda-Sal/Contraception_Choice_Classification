@@ -2,7 +2,7 @@
 
 My motivation for this project came from my belief that contraception is integral for life planning. However, some people face barriers when it comes to contraceptive education and access. If we can understand what factors contribute to contraceptive method usage, then we can focus on expanding access and education to groups that might need it the most. 
 
-**Tools used:** sklearn, pandas, streamlit, SQL, SHAP, and Tableau
+**Tools used:** sklearn, pandas, streamlit, SQL, SHAP, and Tableau  
 **Classification Models considered:** Logistic regression, KNN, RandomForestClassifier, GradientBoostingClassifier
 
 **Model Features:** Age, num children born, num living children, age at first marriage, age at first intercourse, freq of intercourse, Religion, children in residence, knowledge of ovulatory cycle, knows method source, desire for more kids, woman worked after marriage, woman currently working, heard FP message in last month, has transportation, media exposure level, education level, literacy, husband's edu level, husband's literacy, knowledge of methods
@@ -49,7 +49,7 @@ For these reasons, the final model I chose was GradientBoostingClassifier. The c
 
 # Presentation
 
-I created an app using streamlit that takes user input and generates a prediction based on the features.
+I created an app using streamlit that takes user input and generates a prediction based on the features that the user inputs. I plan to host the app on heroku in the near future, for now, a demo can be seen below.
 
 [APP Demo](https://github.com/Neda-Sal/Contraception_Choice_Classification/blob/main/contraception_streamlit_app.webm)
 
